@@ -11,5 +11,4 @@ git commit -m "escrever aqui"
 //comando para subir o commit na nuvem 
 git push
 
-//comando para toda vez usar sempre abrindo subindo ou fechando o projeto 
-git pull
+//comando para toda vez usar sempre abrindo subindo ou fechando o projeto git pull
