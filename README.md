@@ -12,3 +12,12 @@ git commit -m "escrever aqui"
 git push
 
 //comando para toda vez usar sempre abrindo subindo ou fechando o projeto git pull
+
+imformações necessárias
+
+ */
+    margin & padding
+    1 valor-margin: 20px - todos os lados 
+    2 valor-margin: 20px 30px - Em cima, e embaixo, dos lados
+    3 valor-padding: 20px 10px 30px - Em cima, dos lados, embaixo
+    4 valor-margin: 10px 30px 12px 33px - Em cima, direita, embaixo, esquerda 
